@@ -1,0 +1,39 @@
+.table_div {
+  width: 100%;
+}
+
+.table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.td,
+.th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px 6px;
+}
+
+.tr>th,
+.tr>td {
+  text-align: left;
+  padding: 8px 6px;
+}
+
+.tr:nth-child(even) {
+  background-color: #332d2d;
+  color: #dddddd;
+}
+
+.tbody .tr:hover {
+  background-color: #D6EEEE;
+  color: black;
+}
+
+.updateLink:hover {
+  color: rgb(114, 233, 46);
+}
+
+.uppercase { text-transform: uppercase;}
+

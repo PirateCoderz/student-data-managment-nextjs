@@ -1,0 +1,28 @@
+.forms {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.newForm {
+    width: 60%;
+}
+
+.forms input {
+    margin: 10px 20px;
+    padding: 6px 4px;
+    width: 100%;
+}
+
+.newForm .submitDiv {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.forms .submit{
+    width: 30%;
+    padding: 10px 12px;
+}
