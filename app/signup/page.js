@@ -5,5 +5,5 @@ const Page = () => {
         <Signup />
      );
 }
- 
+
 export default Page;

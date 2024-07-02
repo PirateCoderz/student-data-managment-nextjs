@@ -6,8 +6,8 @@ const nextConfig = {
         domains: ['ik.imagekit.io'],
     },
     env: {
-        DB_URI: 'PASTE_YOUR_DB_URL',
-        JWT_TOKEN: 'PASTE_YOUR_TOKEN_KEY'
+        DB_URI: 'mongodb+srv://pirateCoderz:studentPirateData@cluster0.j2phyin.mongodb.net/studentData?retryWrites=true&w=majority',
+        JWT_TOKEN: 'PeakTokenData33'
     }
 };
 
